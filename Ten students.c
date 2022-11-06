@@ -3,7 +3,7 @@
 
 int main(){
     
-    printf("This program accepts and prints the name of ten students\n");
+    printf("This program accepts the name of ten students\n");
     printf("\n");
     
     printf("•••••••••••••••••••••••••••••••••••••••••••••••••\n");
